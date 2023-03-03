@@ -1,5 +1,5 @@
 # Status
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RusselMusas/docker-workflow-project-cloud9/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RusselMusas/docker-workflow-project-cloud9/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RusselMusas/microapp-pai-aws/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RusselMusas/microapp-pai-aws/tree/master)
 
 # Data Engineering API Example
 
